@@ -9,4 +9,4 @@ BISCUIT은 정보보안에 관심있는 사람들이 모여 상호발전을 도�
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gXu4lUD)
 
 ## Links
-[규칙](rule.txt)
+[규칙](Rule.md)
